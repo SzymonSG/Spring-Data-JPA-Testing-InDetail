@@ -1,6 +1,6 @@
-The project aims to show the mapping of objects to the database using diffrent type of relationships in a wider practical context. 
+##The project aims to show the mapping of objects to the database using diffrent type of relationships in a wider practical context. 
 
-## This is a schema how our entities are connected. 
+This is a schema how our entities are connected. 
 ![rlDB](https://user-images.githubusercontent.com/52918767/143892767-f976b3e5-7aec-402b-a454-387540617cfb.PNG)
 <font size="5">
  1.  Every Student has a Guardian 
