@@ -1,7 +1,7 @@
 ## The project aims to show the mapping of objects to the database using diffrent type of relationships in a wider practical context. 
 
 ## This is a schema how our entities are connected. 
-![alt text](images/rldb.png "Title")
+![alt text](/images/rldb.png)
 <font size="5">
  1.  Every Student has a Guardian 
      - @Embeddable and @Embedded.<br />
