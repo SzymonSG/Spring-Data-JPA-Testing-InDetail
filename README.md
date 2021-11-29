@@ -1,4 +1,3 @@
-# Testing-Spring-Data-JPA-in-detail
 ## The project aims to show the mapping of objects to the database using diffrent type of relationships in a wider practical context. 
 
 ## This is a schema how our entities are connected. 
