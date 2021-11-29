@@ -4,16 +4,16 @@ This is a schema how our entities are connected.
 ![rlDB](https://user-images.githubusercontent.com/52918767/143892767-f976b3e5-7aec-402b-a454-387540617cfb.PNG)
 <font size="5">
  1.  Every Student has a Guardian 
-     - @Embeddable and @Embedded.<br />
+     - **@Embeddable and @Embedded**<br />
      (in this case we realize this linkage by embedding Guardian into Student)
  2.  Course Material is matched to one Course 
-     - One to One
+     - **One to One**
  3.  Techer learn multiple Courses
-     - One to Many
+     - **One to Many**
  4.  Otherside multiple courses learning by one teacher
-     - Many to One
+     - **Many to One**
  5.  Course can have a multiple Students
-     - Many to Many
+     - **Many to Many**
 
 Comparing Bidirectional and Unidirectional realtionship connection.
 
@@ -24,11 +24,11 @@ Comparing Bidirectional and Unidirectional realtionship connection.
     - CRUD operations 
     - Pagination and Sorting
 
-Proprietary tests show how easy it is to FILTER, SORT, and VIEWS data from a database using Spring Data JPA, 
+Proprietary tests show how easy it is to **FILTER**, **SORT**, and **VIEWS** data from a database using Spring Data JPA, 
 
 SHOWS ALSO:
-- how to work CASCADING between associated entity  
-- differents between types of FETCHING of data LAZY or EGEAR.
+- how to work **CASCADING** between associated entity  
+- differents between types of **FETCHING** of data **LAZY or EGEAR**.
 
 
 
