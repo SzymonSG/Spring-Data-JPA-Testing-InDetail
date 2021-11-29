@@ -17,7 +17,7 @@ This is a schema how our entities are connected.
 
 Comparing **Bidirectional** and **Unidirectional** realtionship connection.
 
-### Project also testing diffrent types method JpaRepository like:
+### Project also testing diffrent types methods JpaRepository like:
     - Query methods,
     - JPQL,
     - Native query and Native query with Params,
