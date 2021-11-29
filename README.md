@@ -15,7 +15,7 @@ This is a schema how our entities are connected.
  5.  Course can have a multiple Students
      - **Many to Many**
 
-Comparing Bidirectional and Unidirectional realtionship connection.
+Comparing **Bidirectional** and **Unidirectional** realtionship connection.
 
 ### Project also testing diffrent types method JpaRepository like:
     - Query methods,
